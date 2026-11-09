@@ -1,0 +1,531 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="SD-04" id="d2sr-sd04">
+    <mxGraphModel dx="1097" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="2147" background="#FAFBFC" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n11" value="" style="endArrow=none;html=1;strokeColor=#b0bec5;strokeWidth=1;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="207" as="sourcePoint" />
+            <mxPoint x="1450" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n12" value="1  Receive Evidence" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#37474f;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=11;fontFamily=Helvetica;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="15" y="215" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" value="" style="endArrow=none;html=1;strokeColor=#b0bec5;strokeWidth=1;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="441" as="sourcePoint" />
+            <mxPoint x="1450" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n23" value="2  Evidence Normalization" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#e08a2e;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=11;fontFamily=Helvetica;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="15" y="449" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="n36" value="" style="rounded=0;html=1;fillColor=#ffe8cc;fillOpacity=55;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="471" width="1275" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="n37" value="" style="endArrow=none;html=1;strokeColor=#b0bec5;strokeWidth=1;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="744" as="sourcePoint" />
+            <mxPoint x="1450" y="744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n38" value="3  Reliability Evaluation" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#7e57c2;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=11;fontFamily=Helvetica;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="15" y="752" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="n45" value="" style="endArrow=none;html=1;strokeColor=#b0bec5;strokeWidth=1;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="928" as="sourcePoint" />
+            <mxPoint x="1450" y="928" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n46" value="4  Correlation and Conflict Detection" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#37474f;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=11;fontFamily=Helvetica;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="15" y="936" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="n73" value="" style="endArrow=none;html=1;strokeColor=#b0bec5;strokeWidth=1;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1452" as="sourcePoint" />
+            <mxPoint x="1450" y="1452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n74" value="5  Evidence Fusion" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#5e35b1;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=11;fontFamily=Helvetica;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="15" y="1460" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="n83" value="" style="rounded=0;html=1;fillColor=#ede7f6;fillOpacity=55;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1482" width="1275" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="n84" value="" style="endArrow=none;html=1;strokeColor=#b0bec5;strokeWidth=1;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1678" as="sourcePoint" />
+            <mxPoint x="1450" y="1678" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n85" value="6  Trust and Confidence Scoring" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#4f9a5e;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=11;fontFamily=Helvetica;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="15" y="1686" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="n95" value="" style="endArrow=none;html=1;strokeColor=#b0bec5;strokeWidth=1;dashed=1;dashPattern=2 3;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1916" as="sourcePoint" />
+            <mxPoint x="1450" y="1916" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n96" value="7  Return Results" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#37474f;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=11;fontFamily=Helvetica;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="15" y="1924" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="n67" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=22;boundedLbl=1;verticalAlign=top;align=left;spacingLeft=5;fillColor=#f6f8fa;fillOpacity=70;strokeColor=#607d8b;strokeWidth=2;fontStyle=1;fontSize=11;fontFamily=Helvetica;fontColor=#37474f;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1006" width="1265" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="n70" value="" style="rounded=0;html=1;fillColor=#d5ecd4;fillOpacity=65;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="178" y="1032" width="1259" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="n71" value="" style="rounded=0;html=1;fillColor=#f8d0d0;fillOpacity=65;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="178" y="1129" width="1259" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="n72" value="" style="rounded=0;html=1;fillColor=#fff0c2;fillOpacity=65;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="178" y="1293" width="1259" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="n91" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=22;boundedLbl=1;verticalAlign=top;align=left;spacingLeft=5;fillColor=#e3f2e8;fillOpacity=70;strokeColor=#5f9e63;strokeWidth=2;fontStyle=1;fontSize=11;fontFamily=Helvetica;fontColor=#37474f;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1756" width="1265" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="n68" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#607d8b;strokeWidth=1.5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="1128" as="sourcePoint" />
+            <mxPoint x="1440" y="1128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n69" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#607d8b;strokeWidth=1.5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="1292" as="sourcePoint" />
+            <mxPoint x="1440" y="1292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ll_O" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;size=0;dashed=1;strokeWidth=1.25;strokeColor=#4f9a5e;" parent="1" vertex="1">
+          <mxGeometry x="245" y="134" width="170" height="1973" as="geometry" />
+        </mxCell>
+        <mxCell id="hd_O" value="Analysis&lt;br&gt;Orchestrator" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#d5ecd4;strokeColor=#4f9a5e;strokeWidth=2;fontStyle=1;fontFamily=Helvetica;fontSize=12;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="245" y="80" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ll_EC" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;size=0;dashed=1;strokeWidth=1.25;strokeColor=#2e9aa6;" parent="1" vertex="1">
+          <mxGeometry x="575" y="134" width="170" height="1973" as="geometry" />
+        </mxCell>
+        <mxCell id="hd_EC" value="Evidence&lt;br&gt;Collector" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#cdeef0;strokeColor=#2e9aa6;strokeWidth=2;fontStyle=1;fontFamily=Helvetica;fontSize=12;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="575" y="80" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ll_TE" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;size=0;dashed=1;strokeWidth=1.25;strokeColor=#7e57c2;" parent="1" vertex="1">
+          <mxGeometry x="905" y="134" width="170" height="1973" as="geometry" />
+        </mxCell>
+        <mxCell id="hd_TE" value="Trust&lt;br&gt;Engine" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#e1d5f0;strokeColor=#7e57c2;strokeWidth=2;fontStyle=1;fontFamily=Helvetica;fontSize=12;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="905" y="80" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ll_RP" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;size=0;dashed=1;strokeWidth=1.25;strokeColor=#8a9a84;" parent="1" vertex="1">
+          <mxGeometry x="1235" y="134" width="170" height="1973" as="geometry" />
+        </mxCell>
+        <mxCell id="hd_RP" value="Result Processing&lt;br&gt;(downstream stage)" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#e3eadf;strokeColor=#8a9a84;strokeWidth=2;fontStyle=1;fontFamily=Helvetica;fontSize=12;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1235" y="80" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="h0" value="SD-04 — Evidence Fusion &amp; Trust Scoring" style="text;html=1;align=left;fontSize=22;fontStyle=1;fontFamily=Helvetica;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="20" y="12" width="1100" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" value="D²SR  |  Follows SD-03 (input = completed engine results)   solid + filled = synchronous   open head = asynchronous   dashed = return   narrow bar = activation" style="text;html=1;align=left;fontSize=10;fontStyle=2;fontFamily=Helvetica;fontColor=#546e7a;" parent="1" vertex="1">
+          <mxGeometry x="20" y="48" width="1500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" value="" style="rounded=0;html=1;fillColor=#d5ecd4;strokeColor=#4f9a5e;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="324" y="271" width="12" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="n35" value="" style="rounded=0;html=1;fillColor=#cdeef0;strokeColor=#2e9aa6;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="654" y="271" width="12" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="n99" value="" style="rounded=0;html=1;fillColor=#e3eadf;strokeColor=#8a9a84;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1314" y="2010" width="12" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="n100" value="" style="rounded=0;html=1;fillColor=#e1d5f0;strokeColor=#7e57c2;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="984" y="700" width="12" height="1361" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" value="1: Submit Completed Engine Results&lt;br&gt;(output of SD-03)" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#ADE3FF;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="279" as="sourcePoint" />
+            <mxPoint x="660" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n14" value="Evidence sources received:&lt;br&gt;AI Detection, Manipulation Detection, Metadata &amp;amp; EXIF, Image Forensics, C2PA &amp;amp; Provenance, Image Integrity (SHA-256), Perceptual Fingerprinting.&lt;br&gt;Result structures may differ per engine." style="shape=note;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fffbe6;strokeColor=#c9a227;spacing=6;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="243" width="330" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="299" as="sourcePoint" />
+            <mxPoint x="666" y="321" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="299" />
+              <mxPoint x="705" y="321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n17" value="2: Identify Available Evidence Sources" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="295" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="341" as="sourcePoint" />
+            <mxPoint x="666" y="363" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="341" />
+              <mxPoint x="705" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n19" value="3: Check Engine Execution Statuses" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="337" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="383" as="sourcePoint" />
+            <mxPoint x="666" y="405" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="383" />
+              <mxPoint x="705" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n21" value="4: Prepare Evidence Collection" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="379" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n24" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="483" as="sourcePoint" />
+            <mxPoint x="666" y="505" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="483" />
+              <mxPoint x="705" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n25" value="5: Standardize Evidence Representation" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="479" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n26" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="525" as="sourcePoint" />
+            <mxPoint x="666" y="547" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="525" />
+              <mxPoint x="705" y="547" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n27" value="6: Organize Findings by Source and Type" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="521" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n28" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="567" as="sourcePoint" />
+            <mxPoint x="666" y="589" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="567" />
+              <mxPoint x="705" y="589" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n29" value="7: Validate Evidence Availability and Structure" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="563" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n30" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="609" as="sourcePoint" />
+            <mxPoint x="666" y="631" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="609" />
+              <mxPoint x="705" y="631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n31" value="8: Flag Missing / Incomplete Evidence" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="605" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n32" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="651" as="sourcePoint" />
+            <mxPoint x="666" y="673" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="651" />
+              <mxPoint x="705" y="673" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n33" value="9: Preserve Original Evidence and Source" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="710" y="647" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n34" value="10: Submit Normalized Evidence Collection" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#ADE3FF;endArrow=open;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="708" as="sourcePoint" />
+            <mxPoint x="990" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n39" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="786" as="sourcePoint" />
+            <mxPoint x="996" y="808" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="786" />
+              <mxPoint x="1035" y="808" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n40" value="11: Evaluate Evidence Source and Origin" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="782" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n41" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="828" as="sourcePoint" />
+            <mxPoint x="996" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="828" />
+              <mxPoint x="1035" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n42" value="12: Evaluate Completeness and Quality" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="824" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n43" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="870" as="sourcePoint" />
+            <mxPoint x="996" y="892" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="870" />
+              <mxPoint x="1035" y="892" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44" value="13: Assess Reliability and Supporting Findings" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="866" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n47" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="970" as="sourcePoint" />
+            <mxPoint x="996" y="992" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="970" />
+              <mxPoint x="1035" y="992" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n48" value="14: Compare Related Evidence Sources" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="966" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n49" value="Evidence comparisons (conceptual):&lt;br&gt;- AI Detection vs Image Forensics&lt;br&gt;- Manipulation vs Image Integrity&lt;br&gt;- Metadata/EXIF vs C2PA Provenance&lt;br&gt;- Perceptual Fingerprint vs Integrity" style="shape=note;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fffbe6;strokeColor=#c9a227;spacing=6;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="964" width="330" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="n50" value="[A]  Consistent evidence" style="text;html=1;align=left;fontStyle=1;fontFamily=Helvetica;fontSize=10;fontColor=#3d8b4f;" parent="1" vertex="1">
+          <mxGeometry x="235" y="1008" width="600" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n51" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1044" as="sourcePoint" />
+            <mxPoint x="996" y="1066" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1044" />
+              <mxPoint x="1035" y="1066" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n52" value="15: Identify Agreement Between Sources" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1040" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n53" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1086" as="sourcePoint" />
+            <mxPoint x="996" y="1108" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1086" />
+              <mxPoint x="1035" y="1108" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n54" value="16: Mark Findings as Correlated" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1082" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n55" value="[B]  Conflicting evidence" style="text;html=1;align=left;fontStyle=1;fontFamily=Helvetica;fontSize=10;fontColor=#c0392b;" parent="1" vertex="1">
+          <mxGeometry x="235" y="1131" width="600" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n56" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1166" as="sourcePoint" />
+            <mxPoint x="996" y="1188" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1166" />
+              <mxPoint x="1035" y="1188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n57" value="17: Identify Inconsistent Findings" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1162" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n58" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1208" as="sourcePoint" />
+            <mxPoint x="996" y="1230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1208" />
+              <mxPoint x="1035" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n59" value="18: Preserve Conflict Record (no finding discarded)" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1204" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n60" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1250" as="sourcePoint" />
+            <mxPoint x="996" y="1272" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1250" />
+              <mxPoint x="1035" y="1272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n61" value="19: Handle Impact per Trust Engine Logic" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1246" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n62" value="[C]  Missing or incomplete evidence" style="text;html=1;align=left;fontStyle=1;fontFamily=Helvetica;fontSize=10;fontColor=#b7791f;" parent="1" vertex="1">
+          <mxGeometry x="235" y="1295" width="600" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n63" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1330" as="sourcePoint" />
+            <mxPoint x="996" y="1352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1330" />
+              <mxPoint x="1035" y="1352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n64" value="20: Record Missing / Unavailable Sources" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1326" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n65" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1372" as="sourcePoint" />
+            <mxPoint x="996" y="1394" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1372" />
+              <mxPoint x="1035" y="1394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n66" value="21: Continue with Available Evidence&lt;br&gt;(missing is not negative evidence)" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1368" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n75" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1494" as="sourcePoint" />
+            <mxPoint x="996" y="1516" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1494" />
+              <mxPoint x="1035" y="1516" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n76" value="22: Combine Available Findings (sources preserved)" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1490" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n77" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1536" as="sourcePoint" />
+            <mxPoint x="996" y="1558" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1536" />
+              <mxPoint x="1035" y="1558" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n78" value="23: Apply Reliability and Correlation Results" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1532" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n79" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1578" as="sourcePoint" />
+            <mxPoint x="996" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1578" />
+              <mxPoint x="1035" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n80" value="24: Account for Conflicting and Missing Evidence" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1574" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n81" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1620" as="sourcePoint" />
+            <mxPoint x="996" y="1642" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1620" />
+              <mxPoint x="1035" y="1642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n82" value="25: Produce Consolidated Evidence" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1616" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n86" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1720" as="sourcePoint" />
+            <mxPoint x="996" y="1742" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1720" />
+              <mxPoint x="1035" y="1742" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n87" value="26: Calculate Trust Score using&lt;br&gt;configured scoring logic" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1716" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n88" value="[Confidence Score supported by implementation]" style="text;html=1;align=left;fontStyle=1;fontFamily=Helvetica;fontSize=10;fontColor=#5f9e63;" parent="1" vertex="1">
+          <mxGeometry x="235" y="1758" width="600" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="n89" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1794" as="sourcePoint" />
+            <mxPoint x="996" y="1816" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1794" />
+              <mxPoint x="1035" y="1816" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n90" value="27: Calculate Confidence Score (separate from Trust Score)" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1790" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n92" value="" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#263238;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="1858" as="sourcePoint" />
+            <mxPoint x="996" y="1880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035" y="1858" />
+              <mxPoint x="1035" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n93" value="28: Prepare Scoring Explanation and Supporting Evidence" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1854" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n94" value="No formulas, weights or thresholds are defined here. AI / Real % (classification), Trust (evidence reliability) and Confidence (evaluation confidence) are distinct; report-level indicators are left to downstream processing." style="shape=note;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fffbe6;strokeColor=#c9a227;spacing=6;fontFamily=Helvetica;fontSize=10;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="1714" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n97" value="29: Deliver Consolidated Evaluation&lt;br&gt;Trust Score, Confidence Score (if supported),&lt;br&gt;Consolidated Evidence, Reliability Findings,&lt;br&gt;Conflicts, Missing Evidence, Scoring Explanation" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#A7DDF9;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="2018" as="sourcePoint" />
+            <mxPoint x="1320" y="2018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n98" value="30: Evaluation Received" style="html=1;verticalAlign=bottom;strokeColor=#37474f;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontColor=#A7DDF9;endArrow=open;endFill=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="2053" as="sourcePoint" />
+            <mxPoint x="990" y="2053" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
